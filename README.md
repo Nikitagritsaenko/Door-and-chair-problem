@@ -28,8 +28,8 @@
 5. Сравнение ширины стула и проёма, выдача вердикта "да"/"нет"
 
 ## Реализация
-(в файле project.ipynb)
+(в файле project.ipynb, см. pull request)
 
 ## Отчёт
 
-(в файле project.ipynb)
+(в файле project.ipynb, см. pull request)
