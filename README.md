@@ -31,8 +31,8 @@
 5. Сравнение ширины стула и проёма, выдача вердикта "да"/"нет"
 
 ## Реализация
-(в файле project.ipynb, см. pull request)
+(в файле project.ipynb, см. ![pull request](https://github.com/Nikitagritsaenko/Door-and-chair-problem/tree/iteration-3))
 
 ## Отчёт
 
-(в файле project.ipynb, см. pull request)
+(в файле project.ipynb, см. ![pull request](https://github.com/Nikitagritsaenko/Door-and-chair-problem/tree/iteration-3))
